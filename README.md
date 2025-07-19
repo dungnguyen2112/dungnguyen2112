@@ -168,7 +168,7 @@ const nguyenTriDung = {
   
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
-  ### ✨ "Code với đam mê, debug với kiên nhẫn, scale với kinh nghiệm!" ✨
+  ### ✨ "Learning today, leading tomorrow!" ✨
   
   
 </div>
