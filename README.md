@@ -3,10 +3,12 @@
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/dungnguyen2112?style=for-the-badge&color=blue)](https://github.com/dungnguyen2112)
-  [![GitHub stars](https://img.shields.io/github/stars/dungnguyen2112?style=for-the-badge&color=yellow)](https://github.com/dungnguyen2112)
-  [![Profile views](https://komarev.com/ghpvc/?username=dungnguyen2112&style=for-the-badge&color=brightgreen)](https://github.com/dungnguyen2112)
-  [![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-turquoise?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/TrDungDev)
+[![Email](https://img.shields.io/badge/Email-nguyentridung20044@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyentridung20044@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-0978025217-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:0978025217)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyễn_Trí_Dũng-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyễn-trí-dũng-57897a2b7)
+[![Codeforces](https://img.shields.io/badge/Codeforces-ITIS__TrDung-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/ITIS_TrDung)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100027617010806&mibextid=kFxxJD)
+[![GitHub](https://img.shields.io/badge/GitHub-dungnguyen2112-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dungnguyen2112)
   
 </div>
 
@@ -136,18 +138,6 @@ const nguyenTriDung = {
   
 </div>
 
-## 📫 Liên hệ với tôi
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-nguyentridung20044@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyentridung20044@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-0978025217-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:0978025217)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyễn_Trí_Dũng-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyễn-trí-dũng-57897a2b7)
-[![Codeforces](https://img.shields.io/badge/Codeforces-ITIS__TrDung-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/ITIS_TrDung)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100027617010806&mibextid=kFxxJD)
-[![GitHub](https://img.shields.io/badge/GitHub-dungnguyen2112-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dungnguyen2112)
-
-</div>
 
 ## 💡 Thông tin thêm
 
