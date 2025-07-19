@@ -139,20 +139,6 @@ const nguyenTriDung = {
 </div>
 
 
-## 💡 Thông tin thêm
-
-**🎓 Chứng chỉ:**
-- Samsung Algorithm and Application
-- TOEIC L&R: 600
-
-**🏅 Học bổng & Danh hiệu:**
-- Học bổng Sinh viên Xuất sắc HK2 2023-2024
-- Top 30 ICPC PTIT Preliminary Round
-
-**📍 Địa chỉ:** Hà Đông, Hà Nội  
-**📧 Sẵn sàng:** Nhận internship và full-time opportunities
-
----
 
 <div align="center">
   
